@@ -6,4 +6,4 @@ Refactored some thoughts into a function that determines entropy for a root tree
 
 ![Image](./entropy.jpg)
 
-[Notebook](https://github.com/sbogucki12/datascience)
+[Notebook](https://github.com/sbogucki12/datascience/blob/main/decision-trees.ipynb)
