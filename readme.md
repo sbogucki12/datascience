@@ -2,7 +2,13 @@
 
 For the most part, these are the notes I've taken while a student in the Cornell Machine Learning certificate course.  I only began recording my notes here about halfway through the course.  As of writing, I have one final lesson left (begins Aug 30, 2023).  
 
-There are some other random files thrown in here (analysis on my running data, for example). 
+There are some other random files thrown in here (analysis on my running data, for example).
+
+**Update** **_11/19/2024_**
+
+Working through a PyTorch course via DataCamp. Results in an ipynb in the /pytorch dir
+
+* After learning about using nn.Sequential to build out the layers of the network, and calculating MSE for regression classifications, made my first training loop. 
 
 # July 31
 
